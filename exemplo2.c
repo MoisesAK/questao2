@@ -3,7 +3,7 @@ int main()
 {
    int num;
    FILE *fptr;
-
+//commit1
    if ((fptr = fopen("exemplo2.txt","r")) == NULL){
        printf("Error! opening file");
 
