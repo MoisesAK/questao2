@@ -12,7 +12,7 @@ int main()
    }
 
    fscanf(fptr,"%d", &num);
-//commit2
+//commit22
    printf("Value of n=%d", num);
    fclose(fptr); 
   
